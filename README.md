@@ -28,4 +28,6 @@ git clone -b dunfell git://git.yoctoproject.org/meta-security.git
 ## Prepare build environment
 ```
 source ~/poky-dunfell/oe-init-build-env ~/rpi4-64bit/build
+cp ../conf/bblayers.conf conf/bblayers.conf
+cp ../conf/local.conf.infotainment conf/local.conf
 ```
