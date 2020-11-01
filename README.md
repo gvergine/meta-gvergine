@@ -19,7 +19,7 @@ git clone -b dunfell git://git.openembedded.org/meta-openembedded
 git clone -b dunfell https://github.com/meta-qt5/meta-qt5
 git clone -b dunfell git://git.yoctoproject.org/meta-raspberrypi
 git clone -b dunfell git://git.yoctoproject.org/meta-security.git
-git clone -b dunfell https://github.com/gvergine/meta-gvergine
+git clone https://github.com/gvergine/meta-gvergine
 
 cd ..
 ```
